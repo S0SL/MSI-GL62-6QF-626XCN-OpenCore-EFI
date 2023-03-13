@@ -1,0 +1,2 @@
+# MSI-GL62-6QF-626XCN-OpenCore-EFI
+微星GL62-6QF-626XCN，OpenCore EFI配置
